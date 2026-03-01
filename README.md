@@ -39,5 +39,9 @@ This project analyzes Swiggy food delivery data using SQL Server and Microsoft E
 - Monthly and category-wise revenue patterns.
 
 ## Author
-Aakash M R
+Subanjali M R
 GitHub Profile: https://github.com/Subanjali-MR
+
+
+
+
